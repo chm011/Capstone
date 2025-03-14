@@ -1,6 +1,6 @@
 # README.txt
 ## Project Title: H1B Visa Prediction – Machine Learning Model Implementation  
-## authors: Christie Ma and Kenny Hwang
+## Authors: Christie Ma and Kenny Hwang
 ## Overview  
 This Jupyter Notebook (`Final Notebook.ipynb`) contains the implementation of machine learning models for predicting **H1B visa approval outcomes**. The notebook includes **data preprocessing, exploratory data analysis (EDA), feature engineering, model training, evaluation, and results visualization**.
 ---
