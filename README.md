@@ -19,7 +19,7 @@ pip install numpy pandas matplotlib seaborn scikit-learn xgboost imbalanced-lear
 Data can be downloaded from Kaggle website using the link below:
 https://www.kaggle.com/datasets/zongaobian/h1b-lca-disclosure-data-2020-2024
 ### 4. Execution
-notebook: "Final Notebook.ipynb"
+Notebook: "Final Notebook.ipynb"
 
 ##### tasks:
 - "Load and preprocess the dataset"
